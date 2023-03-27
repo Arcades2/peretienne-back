@@ -14,4 +14,7 @@ module.exports = () => ({
     },
     debug: false,
   },
+  settings: {
+    forceMigrations: false,
+  },
 });
